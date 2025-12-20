@@ -1,0 +1,21 @@
+# Password Strength Checker 
+
+## Description
+A Python-based cybersecurity tool that evaluates password strength based on
+industry-standard security rules.
+
+## Features
+- Length validation
+- Uppercase & lowercase detection
+- Numeric & special character checks
+- Common password blacklist
+- Strength rating (Weak / Medium / Strong)
+
+## Technologies Used
+- Python
+- Regular Expressions (re module)
+
+## Purpose
+ This is a educational project to understand password security and brute-force resistance.
+
+# For educational purposes only.
